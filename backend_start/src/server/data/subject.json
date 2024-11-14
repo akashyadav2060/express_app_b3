@@ -1,1 +1,22 @@
-{"data":[{"id":1,"name":"Introduction to JavaScript","intro":"Learn web programming using JavaScript","fee":"3000","courseBook":"JavaScript Coursebook","duration":"6 months","instructor":"Donald Trump"},{"id":1,"name":"Introduction to Java","intro":"Learn Object oriented programming using Java","fee":"3500","courseBook":"Java Coursebook","duration":"8 months","instructor":"kamala Trump"}]}
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Introduction to JavaScript",
+            "intro": "Learn web programming using JavaScript",
+            "fee": "3000",
+            "courseBook": "JavaScript Coursebook",
+            "duration": "6 months",
+            "instructor": "Donald Trump"
+        },
+        {
+            "id": 1,
+            "name": "Introduction to Java",
+            "intro": "Learn Object oriented programming using Java",
+            "fee": "3500",
+            "courseBook": "Java Coursebook",
+            "duration": "8 months",
+            "instructor": "kamala Trump"
+        }
+    ]
+}
